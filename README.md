@@ -44,7 +44,7 @@ Start the development server with Vite:
 npm run dev
 # or
 yarn dev
-
+```
 
 ### Acknowledgements
 React
