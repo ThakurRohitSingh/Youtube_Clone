@@ -10,45 +10,40 @@ This project is a YouTube clone built using React, Material UI, and the RapidAPI
 - Channel pages
 - Responsive design
 
-
 ## Getting Started
-
-To get a local copy up and running, follow these simple steps.
 
 ### Prerequisites
 
-- Node.js (v12 or later)
-- npm or yarn
+Make sure you have the following installed:
+
+- [Node.js](https://nodejs.org/) (version 14 or above)
+- [npm](https://www.npmjs.com/) (version 6 or above) or [yarn](https://yarnpkg.com/)
 
 ### Installation
 
-1. Clone the repo
-   ```sh
-   git clone https://github.com/ThakurRohitSingh/Youtube_Clone.git
-   
-Install NPM packages
+1. Clone the repository:
 
-Copy code
-npm install
+    ```bash
+    git clone https://github.com/yourusername/your-repo-name.git
+    cd your-repo-name
+    ```
 
-yarn install
-Get your API key from RapidAPI YouTube and create a .env file in the root of the project with the following content:
+2. Install the dependencies:
 
-REACT_APP_RAPIDAPI_KEY=your_rapidapi_key
-Usage
+    ```bash
+    npm install
+    # or
+    yarn install
+    ```
 
+### Running the Development Server
 
-To start the development server, run:
-npm start
-yarn start
+Start the development server with Vite:
 
-
-Build
-To build the project for production, run:
-
-npm run build
-
-yarn build
+```bash
+npm run dev
+# or
+yarn dev
 
 
 Acknowledgements
