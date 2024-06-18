@@ -25,42 +25,38 @@ To get a local copy up and running, follow these simple steps.
 1. Clone the repo
    ```sh
    git clone https://github.com/ThakurRohitSingh/Youtube_Clone.git
+   
 Install NPM packages
-sh
+
 Copy code
 npm install
-or
-sh
-Copy code
+
 yarn install
 Get your API key from RapidAPI YouTube and create a .env file in the root of the project with the following content:
-sh
-Copy code
+
 REACT_APP_RAPIDAPI_KEY=your_rapidapi_key
 Usage
+
+
 To start the development server, run:
-
-sh
-Copy code
 npm start
-or
-
-sh
-Copy code
 yarn start
+
+
 Build
 To build the project for production, run:
 
-sh
-Copy code
 npm run build
-or
 
-sh
-Copy code
 yarn build
+
+
 Acknowledgements
+
 React
+
 Material UI
-RapidAPI YouTube
-JS Mastery
+
+RapidAPI 
+
+YouTube JS Mastery
