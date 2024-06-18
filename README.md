@@ -46,8 +46,7 @@ npm run dev
 yarn dev
 
 
-Acknowledgements
-
+### Acknowledgements
 React
 
 Material UI
